@@ -10,12 +10,12 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### `about`
- **node: 14.18.1**
- **absolute path**
+## node: 14.18.1
+
+ ## absolute path
   絕對路徑設定在-->jsconfig.json
 
- **prettier -code formatter**
-
+ ## prettier -code formatter
   啟用選擇工作區
 
  
