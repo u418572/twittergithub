@@ -1,7 +1,7 @@
-function Github () {
+function Github (props) {
   return (
     <>
-    <h1>這裏測試分支</h1>
+    <h1>{props.title}</h1>
     </>
   )
 }
